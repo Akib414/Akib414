@@ -1,4 +1,4 @@
-<h2 align="left">GREETINGS & WELCOME<br><br>I'M AQIB , JUST A RANDOM SOFTWARE ENTHUSIAST NORM<br><br>🎓 **Second-year CSE Student**  <br>📍 Passionate about building, solving, and learning every day  <br><br>---<br><br>
+<h2 align="left">GREETINGS & WELCOME<br><br>I'M AQIB , JUST A RANDOM SOFTWARE ENTHUSIAST NORMIE<br><br>🎓 **Second-year CSE Student**  <br>📍 Passionate about building, solving, and learning every day  <br><br>---<br><br>
 ### 🚀 About Me<br><br>- 🧠 Currently mastering **Data Structures & Algorithms** through competitive programming  <br>- 💻 Experienced with **C, C++, Java, OOP, MySQL, HTML, CSS**  <br>- 🛠️ Built GUI projects using **Java Swing**  <br>- 🎯 Actively solving problems on **VJudge, Codeforces, and LeetCode**  <br><br>---<br><br>
 ### 🔭 Tech Interests & Future Plans<br><br>- 🌐 Web Development  <br>- 📱 App Development  <br>- 🤖 Artificial Intelligence & Machine Learning  <br>- 🌍 Internet of Things (IoT)  <br>- 💡 Open Source Contribution  <br><br>---<br><br>
 ### 🧰 Tools & Technologies<br><br>```c<br>Languages:    C, C++, Java, MySQL, HTML, CSS<br>Libraries:    Java Swing<br>Platforms:    Windows, Linux</h2>
