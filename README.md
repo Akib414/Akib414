@@ -44,9 +44,9 @@
 
 ## 📜 Certifications & Licenses
 
-* 🎓 **[The Web Developer Bootcamp](https://www.udemy.com/certificate/YOUR-CERT-ID-1/)** — Udemy *(Full-Stack MERN Stack)*
-* 🎓 **[Second Certification Name](https://www.udemy.com/certificate/YOUR-CERT-ID-2/)** — Provider Name
-* 🎓 **[Third Certification Name](https://www.udemy.com/certificate/YOUR-CERT-ID-3/)** — Provider Name
+* 🎓 **[The Web Developer Bootcamp](https://ude.my/UC-10c37aad-7d86-4e57-b876-4255ec107115)** — Udemy
+* 🎓 **[Coursera Certification](https://coursera.org/verify/26XE0YEKVKUC)** — Coursera
+* 🎓 **[Third Certification Name](https://your-certificate-link-here.com)** — Issuer Name
 
 ---
 
